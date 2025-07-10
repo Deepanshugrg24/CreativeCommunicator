@@ -30,7 +30,7 @@ const contactInfo = [
     icon: Linkedin,
     title: "LinkedIn",
     value: "linkedin.com/in/deepanshugarg",
-    href: "https://linkedin.com/in/deepanshugarg",
+    href: "https://www.linkedin.com/in/deepanshu-gargofficial/",
   },
 ];
 
