@@ -81,7 +81,7 @@ export default function Hero() {
                 deepanshu.garg24jan@gmail.com
               </a>
               <a
-                href="https://linkedin.com/in/deepanshugarg"
+                href="https://www.linkedin.com/in/deepanshu-gargofficial/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center text-secondary hover:text-primary transition-colors"
