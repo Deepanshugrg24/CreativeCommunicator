@@ -134,7 +134,7 @@ export default function Contact() {
           </motion.div>
 
           {/* Contact Form */}
-          <motion.div variants={fadeInUp}>
+          {/*<motion.div variants={fadeInUp}>
             <Card>
               <CardContent className="p-6">
                 <form onSubmit={handleSubmit(onSubmit)} className="space-y-6">
@@ -211,7 +211,7 @@ export default function Contact() {
                 </form>
               </CardContent>
             </Card>
-          </motion.div>
+          </motion.div> */}
         </motion.div>
       </div>
     </section>
