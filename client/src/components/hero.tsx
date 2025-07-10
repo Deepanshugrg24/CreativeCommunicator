@@ -95,14 +95,14 @@ export default function Hero() {
               variants={fadeInUp}
               className="flex flex-col sm:flex-row justify-center gap-4"
             >
-              <Button
+              {/* <Button
                 onClick={handleDownloadResume}
                 className="bg-primary text-white hover:bg-primary/90 font-medium"
                 size="lg"
               >
                 <Download className="mr-2" size={18} />
                 Download Resume
-              </Button>
+              </Button> */}
               <Button
                 onClick={scrollToContact}
                 variant="outline"
